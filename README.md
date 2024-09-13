@@ -1,6 +1,5 @@
 ### Hi people 👋
 
-- 🔭 I’m currently working on a browser extension for regional carbon footprint.
 - 🌱 I’m currently learning Java
 - Pronouns: he/him
 
